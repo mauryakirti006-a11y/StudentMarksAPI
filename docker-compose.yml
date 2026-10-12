@@ -1,0 +1,7 @@
+
+services:
+  app:
+    build: .
+    container_name: student-marks-api
+    ports:
+      - "5000:5000"

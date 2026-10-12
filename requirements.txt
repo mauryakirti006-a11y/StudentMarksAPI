@@ -1,0 +1,7 @@
+
+Flask
+scikit-learn
+numpy
+prometheus-flask-exporter
+pytest
+mlflow
